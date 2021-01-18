@@ -17,7 +17,7 @@ import java.util.concurrent.Executors
 class MainActivity : AppCompatActivity() {
 
     val CITY: String ="Kastamonu"
-    val API: String = "9de17e96d7343a457f385c66c2962b7f" // benim isteklerimi takip etmek için, beni tanıması takip etmesi için güvenlik takip
+    val API: String = "specific API key" // benim isteklerimi takip etmek için, beni tanıması takip etmesi için güvenlik takip
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
